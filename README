@@ -1,0 +1,13 @@
+# What is this? #
+
+Run on top is a quick AutoIT application that I wrote for my boss so that he could
+keep a Windows application window visable even when opening other applications.  
+Same behavior that Windows task manager has.
+
+# How to use it? #
+
+Run the exe and select the application that you want to keep visable.   
+
+# Website and Screenshots #
+
+http://motersho.com/blog/index.php/2009/11/23/set-windows-applications-to-always-be-on-top/
